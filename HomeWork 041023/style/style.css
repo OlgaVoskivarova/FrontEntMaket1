@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(220, 213, 226);
+}
+
+div{
+    background-color: #34495E;
+    border-radius: 20px;
+    padding: 21px;
+    /* border: 2px solid; */
+    margin-bottom: 30px;
+
+}
+p{
+    color:white ;
+}
